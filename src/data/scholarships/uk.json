@@ -1,0 +1,119 @@
+{
+    "Study in UK 🇬🇧": [
+      {
+        "id": 1,
+        "link": "https://www.chevening.org/scholarships/",
+        "description": "UK scholarships for international students funded by the  UK Foreign and Commonwealth Office and partner organizations."
+      },
+      {
+        "id": 2,
+        "link": "https://cscuk.fcdo.gov.uk/apply/",
+        "description": "Scholarships for international students from developing countries in the Commonwealth, for studies at master’s and PhD level."
+      },
+      {
+        "id": 3,
+        "link": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
+        "description": "UK scholarships for international students undertaking taught master’s programs in the UK. Programs studied must be demonstrably relevant to the development of technology, economy or society within the student’s country of origin."
+      },
+      {
+        "id": 4,
+        "link": "https://www.marshallscholarship.org/apply",
+        "description": "Postgraduate scholarships for US students showing academic merit, leadership potential and ambassadorial potential to study in the UK. Excludes MBAs and certain courses."
+      },
+      {
+        "id": 5,
+        "link": "https://www.euraxess.org.uk/united-kingdom/funding-opportunities",
+        "description": "Euraxess is an initiative of the European Commission, providing support for  researchers in Europe. The UK branch of the scheme is run by the British Council, offering various graduate research scholarships for international students from around the world."
+      },
+      {
+        "id": 6,
+        "link": "https://www.standyou.com/scholarships/castlesmart-scholarship/",
+        "description": "Estate agent CastleSmart offers £6,000 annually for an undergraduate student in the UK (open to all nationalities).  Applicants must create a compelling YouTube video outlining their study and career plans."
+      },
+      {
+        "id": 7,
+        "link": "https://www.britishcouncil.in/study-uk/scholarships/charles-wallace-india-trust-scholarships",
+        "description": "UK scholarships for doctoral students, research students and visiting fellows from India."
+      },
+      {
+        "id": 8,
+        "link": "https://www.scotland.org/study/scholarships",
+        "description": "Scholarships for students from Canada, the US, India, Pakistan, Hong Kong and China to study in Scotland at any degree level."
+      },
+      {
+        "id": 9,
+        "link": "https://www.aber.ac.uk/en/study-with-us/international/how-to-apply/",
+        "description": "A range of scholarships, bursaries and award schemes to support international students at Aberystwyth University in Wales."
+      },
+      {
+        "id": 10,
+        "link": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
+        "description": "UK scholarships for international students to study at Bristol University on any undergraduate or postgraduate program."
+      },
+      {
+        "id": 11,
+        "link": "https://www.birmingham.ac.uk/study/international/fees/scholarships",
+        "description": "Various scholarships for international students to study at the University of Birmingham."
+      },
+      {
+        "id": 12,
+        "link": "https://www.cardiff.ac.uk/study/international/funding-and-fees/international-scholarships",
+        "description": "Bachelor’s and master’s degree UK scholarships for international students to study at Cardiff University in Wales."
+      },
+      {
+        "id": 13,
+        "link": "https://www.ox.ac.uk/clarendon/information-for-applicants/timeline",
+        "description": "Sponsored by Oxford University Press, the Clarendon Fund offers UK scholarships to full- and part-time graduate students at the University of Oxford."
+      },
+      {
+        "id": 14,
+        "link": "https://www.gatescambridge.org/programme/the-scholarship/",
+        "description": "Offering full UK scholarships for international students to study in the UK at the University of Cambridge. For full-time postgraduate students only."
+      },
+      {
+        "id": 15,
+        "link": "https://www.imperial.ac.uk/study/fees-and-funding/undergraduate/bursaries-grants-scholarships/",
+        "description": "Undergraduate scholarships are  available  to  study  at  Imperial  College London,  including  the  President's Undergraduate Scholarships. The university also offers postgraduate scholarships."
+      },
+      {
+        "id": 16,
+        "link": "https://www.kingston.ac.uk/study/fees-and-funding/international-scholarships",
+        "description": "The university’s international office awards scholarships for all study levels, including undergraduate scholarships for Indian students."
+      },
+      {
+        "id": 17,
+        "link": "https://www.qub.ac.uk/Study/international-students/international-scholarships/",
+        "description": "A range of undergraduate and graduate scholarship options to study at Queen’s University Belfast in Northern Ireland."
+      },
+      {
+        "id": 18,
+        "link": "https://www.nottingham.ac.uk/studywithus/international-applicants/scholarships/index.aspx",
+        "description": "A range of undergraduate and postgraduate scholarships to study at the University of Nottingham in the UK."
+      },
+      {
+        "id": 19,
+        "link": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
+        "description": "Merit-based UK scholarships for master’s and PhD students to study at Oxford University."
+      },
+      {
+        "id": 20,
+        "link": "https://www.swansea.ac.uk/undergraduate/scholarships/",
+        "description": "A selection of undergraduate and postgraduate scholarships, available to students from various regions, including the EU, Asia and the Middle East."
+      },
+      {
+        "id": 21,
+        "link": "https://www.ucl.ac.uk/scholarships/",
+        "description": "A search tool for finding financial awards for both current and prospective students of the university."
+      },
+      {
+        "id": 22,
+        "link": "https://www.uwl.ac.uk/international/fees-and-funding-international-students/international-scholarships-and-bursaries",
+        "description": "Offering up to 50 scholarships for international students to study in the UK and to be ambassadors of their home country. Open to both undergraduate and postgraduate students."
+      },
+      {
+        "id": 23,
+        "link": "https://www.westminster.ac.uk/study/fees-and-funding/scholarships",
+        "description": "UK scholarships for master’s students enrolled at the University of Westminster. Awards are offered based on academic merit and financial need. There are also scholarships available for international undergraduate students."
+      }
+    ]
+}
