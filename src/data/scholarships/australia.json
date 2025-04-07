@@ -1,0 +1,99 @@
+{
+    "Study in Australia 🇦🇺": [
+      {
+        "id": 1,
+        "link": "https://www.dfat.gov.au/people-to-people/australia-awards/Pages/how-to-apply-for-an-australia-awards-scholarship",
+        "description": "Scholarships to study in Australia for students of all degree levels (bachelors, masters, PhD) hailing from selected countries within the Asia-Pacific region, Africa and the Middle East."
+      },
+      {
+        "id": 2,
+        "link": "https://www.education.gov.au/research-block-grants/higher-education-providers-eligible-research-block-grants",
+        "description": "Postgraduate-level Australian scholarships for domestic and international students to study a research degree at a participating Australian university."
+      },
+      {
+        "id": 3,
+        "link": "https://acu.smapply.io/prog/acu_international_student_scholarship/",
+        "description": "Scholarships for commencing international undergraduate and postgraduate students, awarded based on academic merit."
+      },
+      {
+        "id": 4,
+        "link": "https://study.anu.edu.au/scholarships/find-scholarship",
+        "description": "Various  scholarships  available  for  international students at all study levels, which can be found using a search tool on the university site."
+      },
+      {
+        "id": 5,
+        "link": "https://international.adelaide.edu.au/admissions/scholarships/asean-scholarships",
+        "description": "Tuition fee scholarships available for master’s or PhD students enrolled at the University of Adelaide."
+      },
+      {
+        "id": 6,
+        "link": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
+        "description": "International scholarships for students undertaking master’s or PhD programs at Curtin University in Perth."
+      },
+      {
+        "id": 7,
+        "link": "https://www.deakin.edu.au/international-students/fees-and-scholarships",
+        "description": "A search tool for finding scholarships to study at Deakin University in Melbourne."
+      },
+      {
+        "id": 8,
+        "link": "https://www.flinders.edu.au/scholarships/flinders-university-international-research-scholarship",
+        "description": "Australian scholarships to study at Flinders University in Adelaide. Awarded to master’s and PhD research students, based on merit."
+      },
+      {
+        "id": 9,
+        "link": "https://www.latrobe.edu.au/study/scholarships/other/search",
+        "description": "Scholarships for international students to study at La Trobe University in Melbourne. Open to high-achieving students from outside Australia or New Zealand who are enrolled on any taught undergraduate or postgraduate program."
+      },
+      {
+        "id": 10,
+        "link": "https://www.nzscholarships.govt.nz",
+        "description": "The New Zealand Development Scholarships (NZDS) offers the opportunity for international students from selected developing countries in Africa, Asia, Latin America and the Caribbean to study in New Zealand. The scholarships include tuition fees, travel costs, living allowance, and insurance."
+      },
+      {
+        "id": 11,
+        "link": "scholarships.unimelb.edu.au/search",
+        "description": "Scholarships for high-achieving domestic and international students to undertake a master’s research program at the University of Melbourne."
+      },
+      {
+        "id": 12,
+        "link": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship",
+        "description": "Merit-based scholarships for undergraduate and graduate international students to study in Australia at Monash University in Melbourne."
+      },
+      {
+        "id": 13,
+        "link": "https://www.sydney.edu.au/scholarships/international.html",
+        "description": "Various Australian scholarships open to international undergraduate students studying at the University of Sydney. There are also scholarships open to postgraduate students."
+      },
+      {
+        "id": 14,
+        "link": "https://www.newcastle.edu.au/study/research/future-students/scholarships/hdr-scholarships-policy-list",
+        "description": "Australian scholarships for postgraduate students to study in Australia at the University of Newcastle."
+      },
+      {
+        "id": 15,
+        "link": "https://www.uwa.edu.au/study/fees-and-scholarships/hdr-scholarships",
+        "description": "Research scholarships for master’s and PhD students to study in Australia at the University of Western Australia. Covers tuition fees, a fortnightly stipend for living expenses, and health insurance."
+      },
+      {
+        "id": 16,
+        "link": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/international",
+        "description": "UTS will pay each recipient’s tuition fees for the approved bachelor’s degree for  the duration of the scholarship."
+      },
+      {
+        "id": 17,
+        "link": "https://www.vu.edu.au/study-at-vu/fees-scholarships/scholarships/international-scholarships",
+        "description": "A range of scholarships for international students, such as the VU International Postgraduate Research Scholarship."
+      },
+      {
+        "id": 18,
+        "link": "https://watercentre.org/training/water-leadership-program/wlp-scholarships/",
+        "description": "Australian scholarships for international students undertaking the Masters in Integrated Water Management program at the University of Queensland in Brisbane."
+      },
+      {
+        "id": 19,
+        "link": "https://www.britain-australia.org.uk/northcote",
+        "description": "A scholarship for UK students to undertake a postgraduate degree in Australia for up to three years. Administered by the Britain-Australia Society on behalf of the Northcote Trust."
+      }
+    ]
+}

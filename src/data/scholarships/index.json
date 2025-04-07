@@ -9,6 +9,11 @@
       "id": "canada",
       "name": "Study in Canada 🇨🇦",
       "file": "canada.json"
+    },
+    {
+      "id": "australia",
+      "name": "Study in Australia 🇦🇺",
+      "file": "australia.json"
     }
   ]
 }
