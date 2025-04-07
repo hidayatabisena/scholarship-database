@@ -4,4 +4,4 @@ This is a work-in-progress scholarship database directory application called Nex
 
 Wish me luck!
 
-![App Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1744012981/maia/nextstopscholar_op7ndo.webp)
+![App Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1744017014/maia/nextstopscholar_wza3so.webp)
