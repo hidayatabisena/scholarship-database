@@ -73,7 +73,7 @@ const isMobile = computed(() => width.value < 768);
     <div class="space-y-8">
       <template v-for="category in sortedCategories" :key="category">
         <section v-if="filteredScholarships[category].length > 0">
-          <h2 class="text-xl font-semibold mb-4 text-[#37352f] dark:text-[#fbfbfa]">{{ category }}</h2>
+          <h2 class="text-xl font-bold mb-4 text-[#37352f] dark:text-[#fbfbfa]">{{ category }}</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
             <div
               v-for="scholarship in filteredScholarships[category]"

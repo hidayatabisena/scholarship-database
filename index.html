@@ -13,9 +13,52 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="NextStopScholar | Scholarship Database" />
     <meta name="twitter:description" content="Discover scholarships to study abroad with NextStopScholar. Explore funding opportunities globally." />
+    <style>
+      .footer {
+        text-align: center;
+        padding: 20px;
+        margin-top: 40px;
+        font-size: 14px;
+        color: #666;
+        border-top: 1px solid #eaeaea;
+      }
+      
+      .footer a {
+        color: #3498db;
+        text-decoration: none;
+      }
+      
+      .footer a:hover {
+        text-decoration: underline;
+      }
+      
+      @media (prefers-color-scheme: dark) {
+        .footer {
+          color: #a0a0a0;
+          border-top-color: #333;
+        }
+        
+        .footer a {
+          color: #61afef;
+        }
+      }
+      
+      body.dark-mode .footer {
+        color: #a0a0a0;
+        border-top-color: #333;
+      }
+      
+      body.dark-mode .footer a {
+        color: #61afef;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
+    <footer class="footer">
+      <p>Built with <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a> + Vite | Developed by <a href="https://hidayatabisena.com" target="_blank" rel="noopener noreferrer">Han Sena</a></p>
+      <p>Powered by <a href="https://maia.id" target="_blank" rel="noopener noreferrer">MAIA</a> @ 2025</p>
+    </footer>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
