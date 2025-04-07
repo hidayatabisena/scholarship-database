@@ -11,7 +11,7 @@ const searchQuery = ref('');
       <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
         <div class="flex items-center justify-between">
           <h1 class="text-2xl font-bold tracking-tight">
-            Native American Scholarship Database
+            Scholarship Database
           </h1>
           <div class="w-72">
             <input

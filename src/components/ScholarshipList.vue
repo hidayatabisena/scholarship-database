@@ -10,11 +10,7 @@ const props = defineProps<{
 }>();
 
 const { width } = useWindowSize();
-
-// Import scholarships from JSON file
 const scholarships: Record<string, Scholarship[]> = scholarshipsData;
-
-// Sorting options
 const sortOrder = ref<'asc' | 'desc'>('asc');
 
 const toggleSortOrder = () => {
@@ -26,10 +22,8 @@ const filteredScholarships = computed(() => {
   let filtered: Record<string, Scholarship[]> = {};
   
   if (!query) {
-    // Create a deep copy to avoid modifying the original data
     filtered = JSON.parse(JSON.stringify(scholarships));
   } else {
-    // Filter based on search query
     Object.entries(scholarships).forEach(([category, items]) => {
       const matchingItems = items.filter(scholarship => 
         scholarship.description.toLowerCase().includes(query) ||
