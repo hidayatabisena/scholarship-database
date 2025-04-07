@@ -1,0 +1,94 @@
+{
+  "Study in Canada 🇨🇦": [
+    {
+      "id": 1,
+      "link": "https://banting.fellowships-bourses.gc.ca/en/home-accueil.html",
+      "description": "Canadian government scholarships and fellowships offered to international students undertaking postgraduate study within the natural and social sciences or health research"
+    },
+    {
+      "id": 2,
+      "link": "https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp",
+      "description": "Scholarships for Canadian students enrolled on a master's degree or PhD at a (CGS-M  allocated) university in Canada"
+    },
+    {
+      "id": 3,
+      "link": "https://idrc-crdi.ca/en/funding/applying",
+      "description": "Canadian government scholarships for students from developing countries to undertake a master's or doctoral-level research degree at a recognized Canadian university"
+    },
+    {
+      "id": 4,
+      "link": "https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/index_eng.asp",
+      "description": "Various Canadian government scholarships, grants and awards available to outstanding students undertaking study in the natural sciences or engineering at an accredited Canadian university. Funded by the NSERC."
+    },
+    {
+      "id": 5,
+      "link": "https://www.educanada.ca/scholarships-bourses/can/oas-oea.aspx?lang=eng",
+      "description": "Canadian government scholarships from the Organization of American States (OAS), open to graduate students from any OAS member state (including selected countries in Latin America and the Caribbean islands)"
+    },
+    {
+      "id": 6,
+      "link": "https://vanier.gc.ca/en/home-accueil.html",
+      "description": "Canadian government scholarships available to doctoral students internationally, to study in Canada at a participating university."
+    },
+    {
+      "id": 7,
+      "link": "https://www.grad.ubc.ca/prospective-students/application-admission",
+      "description": "Scholarships for international students undertaking animal research at doctoral level at an accredited Canadian university in Québec or British Columbia."
+    },
+    {
+      "id": 8,
+      "link": "https://www.trudeaufoundation.ca/scholarship",
+      "description": "The Trudeau Foundation offers a number of scholarships, fellowships and mentorships to international students at doctoral level undertaking study in Canada at selected institutions."
+    },
+    {
+      "id": 9,
+      "link": "https://admissions.carleton.ca/scholarships/",
+      "description": "Scholarships to study in Canada at Carleton University, open to all graduate students, who are automatically considered for the awards upon application."
+    },
+    {
+      "id": 10,
+      "link": "https://www.concordia.ca/international/students-from-abroad/scholarships.html",
+      "description": "Various scholarships for international students to study in Canada at Concordia  University in Montréal, open to international students at undergraduate level."
+    },
+    {
+      "id": 11,
+      "link": "https://www.dal.ca/admissions/money_matters/awards-financial-aid/scholarships.html",
+      "description": "Scholarships for current and prospective international/domestic students of all levels studying at Dalhousie University in Halifax."
+    },
+    {
+      "id": 12,
+      "link": "https://www.fdu.edu/admissions/international/scholarships/",
+      "description": "Scholarships for international  students of all levels undertaking study in Canada at Fairleigh Dickinson University in Vancouver"
+    },
+    {
+      "id": 13,
+      "link": "https://www.hec.ca/en/students/funding-my-studies/scholarships/index.html",
+      "description": "Various merit-and need-based Canadian scholarships for international  students at HEC Montréal, including mobility scholarships for international students"
+    },
+    {
+      "id": 14,
+      "link": "https://humber.ca/international/admissions-financial-aid/scholarships-bursaries",    
+      "description": "A range of Canadian scholarships for international students at undergraduate level to study in Canada at Humber College in Toronto"
+    },
+    {
+      "id": 15,
+      "link": "https://www.queensu.ca/registrar/financial-aid/specific-students/international",
+      "description": "A number of scholarships for international students to study in Canada at Queen's University in Kingston, Ontario."
+    },
+    {
+      "id": 16,
+      "link": "https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/",
+      "description": "Scholarships for domestic and international students to study at the University of Toronto’s School of Graduate Studies"
+    },
+    {
+      "id": 17,
+      "link": "https://uwaterloo.ca/future-students/financing/international-scholarships",
+      "description": "A variety of Canadian scholarships on offer to international students undertaking a master’s degree or doctoral program at the University of Waterloo"
+    },
+    {
+      "id": 18,
+      "link": "https://futurestudents.yorku.ca/your-application/how-apply/international-student",
+      "description": "York University offers a number of international scholarships for undergraduate students to study in Toronto"
+    }
+  ]
+}

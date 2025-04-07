@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": "us",
+      "name": "Study in US 🇺🇸",
+      "file": "us.json"
+    },
+    {
+      "id": "canada",
+      "name": "Study in Canada 🇨🇦",
+      "file": "canada.json"
+    }
+  ]
+}
