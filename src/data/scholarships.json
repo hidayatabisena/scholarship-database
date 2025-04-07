@@ -1,0 +1,32 @@
+{
+  "Study in US": [
+    { "id": 1, "link": "https://www.oregoncf.org/grants-and-scholarships/scholarships/", "description": "Oregon Community Foundation scholarship opportunities" },
+    { "id": 2, "link": "https://www.collegefund.org/students/scholarships/", "description": "American Indian College Fund scholarships" },
+    { "id": 3, "link": "https://www.udall.gov/", "description": "Udall Foundation scholarships for Native American students" },
+    { "id": 4, "link": "https://utulsa.academicworks.com/", "description": "University of Tulsa's internal scholarship portal" },
+    { "id": 8, "link": "https://www.bie.edu/Parents-Students/Grants", "description": "Bureau of Indian Education grants for students" },
+    { "id": 9, "link": "https://www.haskell.edu/financial-aid/scholarships/", "description": "Haskell Indian Nations University scholarships" },
+    { "id": 11, "link": "https://www.aigcs.org/scholarships-fellowships/graduate-students/", "description": "American Indian Graduate Center scholarships for grad students" },
+    { "id": 12, "link": "https://www.aigcs.org/scholarships-fellowships/undergraduate-students/", "description": "AIGC scholarships for undergraduate students" },
+    { "id": 18, "link": "https://dar.academicworks.com/opportunities/1073", "description": "Daughters of the American Revolution scholarship for Native Americans" }
+  ],
+  "Tribal Nation Scholarships": [
+    { "id": 5, "link": "https://mytribe.cherokee.org/", "description": "Cherokee Nation citizen services portal" },
+    { "id": 6, "link": "https://www.cherokee.org/all-services/education-services/higher-education/", "description": "Cherokee Nation Higher Education services" },
+    { "id": 7, "link": "https://cobellscholar.academicworks.com/", "description": "Cobell Scholarship for Native American students" },
+    { "id": 10, "link": "https://www.tmfoundation.org/scholarships.html", "description": "Tyonek Native Corporation scholarship opportunities" }
+  ],
+  "Organizations & Foundations": [
+    { "id": 13, "link": "https://www.aigcs.org/scholarships-fellowships/additional-scholarships/", "description": "Additional scholarships from AIGC" },
+    { "id": 15, "link": "https://americanindianservices.org/students/", "description": "AIS scholarships for Native American students" },
+    { "id": 16, "link": "https://www.catchingthedream.org/application-reqs", "description": "Catching the Dream scholarship info and requirements" },
+    { "id": 17, "link": "https://www.indian-affairs.org/scholarships.html", "description": "Association on American Indian Affairs scholarship listings" },
+    { "id": 19, "link": "https://nativeforward.org/scholarships/undergraduate-scholarships/", "description": "Undergraduate scholarships from Native Forward Scholars Fund" }
+  ],
+  "Additional Resources": [
+    { "id": 20, "link": "https://www.doi.gov/tribes/tribal-consultation-policy", "description": "U.S. Department of the Interior Tribal Consultation Policy" },
+    { "id": 21, "link": "https://www.aspeninstitute.org/programs/native-american-youth-leadership-program/center-for-native-american-youth/", "description": "Center for Native American Youth leadership programs" },
+    { "id": 22, "link": "https://pewenvironment.org", "description": "Pew Charitable Trusts—policy and environmental work including Native issues" },
+    { "id": 23, "link": "https://nativephilanthropy.org/", "description": "Native Americans in Philanthropy—funding and partnerships for Native communities" }
+  ]
+}
