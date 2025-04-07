@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  @apply bg-[#fbfbfa] dark:bg-[#191919];
+}
+
+@layer base {
+  h1 {
+    @apply text-[#37352f] dark:text-[#fbfbfa];
+  }
+}
+
+@layer components {
+  .notion-card {
+    @apply bg-white dark:bg-[#2f2f2f] rounded-lg p-4 hover:bg-[#f7f7f7] dark:hover:bg-[#363636] transition-all duration-200;
+  }
+  
+  .notion-search {
+    @apply bg-[#fbfbfa] dark:bg-[#2f2f2f] border border-[#e6e6e6] dark:border-[#363636] focus:border-[#37352f] dark:focus:border-[#fbfbfa] focus:ring-0;
+  }
+  
+  .notion-button {
+    @apply bg-[#37352f] hover:bg-[#2b2b2b] dark:bg-[#fbfbfa] dark:hover:bg-[#e6e6e6] text-white dark:text-[#37352f] transition-colors duration-200;
+  }
+}
