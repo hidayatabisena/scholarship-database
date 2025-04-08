@@ -1,0 +1,24 @@
+{
+    "Study in Argentina 🇦🇷": [
+      {
+        "id": 1,
+        "link": "https://www.menteargentina.com",
+        "description": "Various partial international scholarships to study in Argentina at graduate level in Buenos Aires."
+      },
+      {
+        "id": 2,
+        "link": "https://www.robertorocca.org/en",
+        "description": "International scholarships to study in Argentina on various undergraduate programs including engineering, geosciences and materials sciences at selected leading universities."
+      },
+      {
+        "id": 3,
+        "link": "https://ssabroad.org/programs/scholarships/",
+        "description": "Various international scholarships, including 12 for the Spanish and Culture immersion program and 10 for the Latin American studies program."
+      },
+      {
+        "id": 4,
+        "link": "https://www.mastersportal.com/search/scholarships/master/argentina/university-of-buenos-aires/13132",
+        "description": "A range of scholarships to study at Universidad de Buenos Aires (UBA)."
+      }
+    ]
+}
