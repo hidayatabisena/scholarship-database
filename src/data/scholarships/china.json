@@ -1,0 +1,44 @@
+{
+    "Study in China 🇨🇳": [
+      {
+        "id": 1,
+        "link": "https://ic-en.ucas.ac.cn/page/cas-twas-fellowship",
+        "description": "PhD fellowships for international students pursuing PhD studies in China."
+      },
+      {
+        "id": 2,
+        "link": "https://www.chinesescholarshipcouncil.com/unesco-great-wall-program-scholarships.html",
+        "description": "Scholarships for international students from developing countries to study in China for one year at any degree level."
+      },
+      {
+        "id": 3,
+        "link": "https://www.chinesescholarshipcouncil.com",
+        "description": "Government scholarships open to EU students looking to gain funding to study in China. Open to students of all levels."
+      },
+      {
+        "id": 4,
+        "link": "https://www.tsinghua.edu.cn/en/Admissions/International_Students1/Financial_Aid.htm",
+        "description": "A range of scholarships to study at Tsinghua University in Beijing."
+      },
+      {
+        "id": 5,
+        "link": "https://ic.ustc.edu.cn/en/v7info.php?Nav_x=17",
+        "description": "The University of Science and Technology of China (USTC) offers scholarships for international degree-seeking or exchange students, which award free tuition, free housing, health insurance and a monthly living allowance."
+      },
+      {
+        "id": 6,
+        "link": "https://www.mastersportal.com/search/scholarships/master/china/bio-biomedical-engineering",
+        "description": "Scholarships in China for  Medical  and  Engineering. Applications are  invited  for  Tianjin University International Student Scholarship for non-Chinese students to study in China."
+      },
+      {
+        "id": 7,
+        "link": "https://admission-is.bnu.edu.cn/english/international/chineseovernment/typebilateral/index.html",
+        "description": "In order to promote the mutual understanding, cooperation and exchanges in  politics, economy, culture, education and trade between China and other countries, the Chinese  government has set up a series of scholarship programs to sponsor international students, teachers and scholars to study and conduct research in Chinese universities."
+      },
+      {
+        "id": 8,
+        "link": "http://en.jsnu.edu.cn/wiangsuwwasminewwcholarship/list.htm",
+        "description": "The scholarship program of the WANGSU STATE UNIVERSITY is designed to encourage students from all over the world to study in China."
+      }
+    ]
+}
