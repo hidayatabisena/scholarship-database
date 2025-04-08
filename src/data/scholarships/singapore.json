@@ -1,0 +1,24 @@
+{
+    "Study in Singapore 🇸🇬": [
+      {
+        "id": 1,
+        "link": "https://www.a-star.edu.sg/Research/funding-opportunities/astar-dst",
+        "description": "Grants for Indian researchers within the fields of science and technology to study in Singapore. Sponsored by the Indian government and A*Star Singapore."
+      },
+      {
+        "id": 2,
+        "link": "https://admissions.smu.edu.sg/financial-matters/financial-aid/lee-kong-chian-scholars-programme",
+        "description": "Graduate scholarships for research students at the National University of Singapore (NUS)."
+      },
+      {
+        "id": 3,
+        "link": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship/university-engineering-scholarship",
+        "description": "Scholarships for undergraduate engineering students to study in Singapore at Nanyang Technological University (NTU)."
+      },
+      {
+        "id": 4,
+        "link": "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa",
+        "description": "PhD scholarships to study in Singapore in the fields of science and engineering at selected Singaporean universities."
+      }
+    ]
+}
