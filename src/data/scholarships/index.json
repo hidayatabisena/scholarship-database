@@ -54,6 +54,11 @@
       "id": "belgium",
       "name": "Study in Belgium 🇧🇪",
       "file": "belgium.json"
+    },
+    {
+      "id": "czech",
+      "name": "Study in Czech Republic 🇨🇿",
+      "file": "czech.json"
     }
   ]
 }

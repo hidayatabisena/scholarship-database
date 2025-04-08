@@ -8,6 +8,10 @@ const emit = defineEmits(['search']);
 watch(searchQuery, (newValue) => {
   emit('search', newValue);
 });
+
+const refreshPage = () => {
+  window.location.href = '/';
+};
 </script>
 
 <template>
@@ -16,7 +20,13 @@ watch(searchQuery, (newValue) => {
       <div class="flex justify-between h-16">
         <div class="flex items-center">
           <div class="flex-shrink-0">
-            <h1 class="text-xl font-bold text-gray-900 dark:text-white">NextStopScholar</h1>
+            <a 
+              href="/"
+              @click.prevent="refreshPage"
+              class="text-xl font-bold text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition-colors cursor-pointer"
+            >
+              NextStopScholar
+            </a>
           </div>
         </div>
         
