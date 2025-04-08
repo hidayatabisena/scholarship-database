@@ -1,0 +1,14 @@
+{
+    "Study anywhere in Europe 🇪🇺": [
+      {
+        "id": 1,
+        "link": "https://www.emhrpp.com/how-to-apply",
+        "description": "Initiative led by the European Commission to provide funding for students all over the world to study in Europe at selected institutions."
+      },
+      {
+        "id": 2,
+        "link": "https://www.european-funding-guide.eu/scholarship/goeuro-scholarship",
+        "description": "10 individual scholarships of €2,000 for students enrolled in any eligible university in Europe, as well as two €500 Instagram prizes."
+      }
+    ]
+}
