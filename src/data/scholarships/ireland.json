@@ -1,0 +1,24 @@
+{
+    "Study in Ireland 🇮🇪": [
+      {
+        "id": 1,
+        "link": "https://www.tudublin.ie/connect/the-tu-dublin-foundation/scholarships/",
+        "description": "Scholarships are available for students from any non-EU/EEA country to study a master’s degree at Dublin Institute of Technology (DIT)."
+      },
+      {
+        "id": 2,
+        "link": "https://hea.ie/policy/internationalisation/goi-ies/",
+        "description": "Scholarships awarded to high-caliber students from non-EU/EEA countries to study in Ireland for one year, amounting to €10,000."
+      },
+      {
+        "id": 3,
+        "link": "https://www.universityofgalway.ie/internationalscholarships/",
+        "description": "Merit-based scholarships are available for international students at all study levels, and there also country-specific options for students from China, India, Malaysia, Indonesia or the US."
+      },
+      {
+        "id": 4,
+        "link": "https://www.tcd.ie/study/international/scholarships/",
+        "description": "Various scholarships are available for all study levels, some aimed at students from particular countries (for example, the Claddagh Scholarship Programme is aimed at Chinese postgraduates, and the USA Undergraduate Scholarships)."
+      }
+    ]
+}
