@@ -18,7 +18,7 @@ onMounted(async () => {
     const scholarshipData: Record<string, Scholarship[]> = {};
     
     for (const category of scholarshipIndex.categories) {
-      const response = await fetch(`/src/data/scholarships/${category.file}`);
+      const response = await fetch(new URL(`../data/scholarships/${category.file}`, import.meta.url).href);
       const data = await response.json();
       
       const categoryName = Object.keys(data)[0];
