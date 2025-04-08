@@ -1,0 +1,19 @@
+{
+    "Study in Brazil 🇧🇷": [
+      {
+        "id": 1,
+        "link": "https://brasa.org/brazilian-initiation-scholarship-awards/",
+        "description": "A US$1,500 travel scholarship for students in the US to do exploratory research or language study in Brazil."
+      },
+      {
+        "id": 2,
+        "link": "https://www.european-funding-guide.eu/scholarship/6922-erasmus-mundus-action-2-ibrasil",
+        "description": "International scholarships for EU students to study in Brazil."
+      },
+      {
+        "id": 3,
+        "link": "https://twas.org/opportunities/fellowships",
+        "description": "Fellowships for PhD and postdoctoral scientists from developing countries to work abroad in Brazil, Mexico or other countries."
+      }
+    ]
+}
