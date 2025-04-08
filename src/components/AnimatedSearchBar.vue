@@ -66,7 +66,7 @@ const handleKeyDown = (event: KeyboardEvent) => {
         v-model="searchQuery"
         type="text"
         placeholder="Search scholarships..."
-        class="w-full bg-transparent border-none focus:ring-0 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400"
+        class="w-full bg-transparent border-none focus:ring-0 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 px-2 py-2"
         @keydown="handleKeyDown"
       />
     </div>
