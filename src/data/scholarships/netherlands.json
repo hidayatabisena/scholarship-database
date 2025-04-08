@@ -1,0 +1,64 @@
+{
+    "Study in Netherlands 🇳🇱": [
+      {
+        "id": 1,
+        "link": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html?cb",
+        "description": "Merit-based scholarships to study in the Netherlands at the University of Amsterdam. Open to talented master’s degree students from outside the EU or EEA."
+      },
+      {
+        "id": 2,
+        "link": "https://www.wur.nl/en/value-creation-cooperation/benefactors/our-named-funds/scholarships/anne-van-den-ban-fund.htm",  
+        "description": "Scholarships for international students from developing countries to study agriculture, food or environment-related programs at master’s level at Wageningen University. Sponsored by the Anne van den Ban Fund."
+      },
+      {
+        "id": 3,
+        "link": "https://www.rug.nl/alumni/support-research-and-education/scholarships-and-awards/eric-bleumink-fund/applying-for-a-grant?lang=en",
+        "description": "Open to all master’s level international students undertaking further study in the Netherlands at the University of Groningen."
+      },
+      {
+        "id": 4,
+        "link": "https://www.studyinnl.org/finances/nl-scholarship",
+        "description": "Available for non-EEA international students to study at participating universities in the Netherlands at bachelor’s or master’s level."
+      },
+      {
+        "id": 5,
+        "link": "https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs",
+        "description": "Merit-based scholarships for master’s degree (MA/MSc/LLM) students at Leiden University in the Netherlands. Not available to EU/EEA students."
+      },
+      {
+        "id": 6,
+        "link": "https://www.inys.org/the-netherlands-fellowship-programmes-nfp/",
+        "description": "The Netherlands Fellowship Programmes (NFP) is a programme of the Netherlands Institute for Young Scientists (INYS) that provides financial support to students who are pursuing a master’s degree in the Netherlands. The NFP is open to students from all over the world."
+      },
+      {
+        "id": 7,
+        "link": "https://www.studyinnl.org/nuffic-southeast-asia",
+        "description": "Nuffic-funded scholarships for students from developing countries in Asia and Latin America, including China, Indonesia, South Korea, Mexico and Brazil, to study in the Netherlands."
+      },
+      {
+        "id": 8,
+        "link": "https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme",
+        "description": "Scholarship opportunities for non-EEA students to study an English-taught master’s degree at Radboud University in Nijmegen, Netherlands."
+      },
+      {
+        "id": 9,
+        "link": "https://www.youthop.com/scholarships/maastricht-university-nl-high-potential-scholarship-2025-2026-fully-funded",
+        "description": "Merit-based scholarships for international students to study in the  Netherlands at master’s level at Maastricht University. Only open to students from outside of the EU/EEA."
+      },
+      {
+        "id": 10,
+        "link": "https://www.utwente.nl/en/education/scholarship-finder/university-of-twente-scholarship/",
+        "description": "International scholarships to study in the Netherlands on a selected master’s program at the University of Twente. Available for all students, both in and outside the EU."
+      },
+      {
+        "id": 11,
+        "link": "https://vu.nl/en/education/more-about/incoming-master-scholarships",
+        "description": "Scholarships for talented students to study a selection of English-taught master's programs at VU University Amsterdam. Only for students who are not of Dutch nationality."
+      },
+      {
+        "id": 12,
+        "link": "https://www.thuas.com/professionals/study-choice/scholarships",
+        "description": "Merit-based scholarships to study in the Netherlands offered by The Hague University of Applied Sciences. Open to master’s students from outside the Netherlands."
+      }
+    ]
+}
