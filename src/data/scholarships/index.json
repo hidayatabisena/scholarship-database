@@ -34,6 +34,11 @@
       "id": "chile",
       "name": "Study in Chile 🇨🇱",
       "file": "chile.json"
+    },
+    {
+      "id": "mexico",
+      "name": "Study in Mexico 🇲🇽",
+      "file": "mexico.json"
     }
   ]
 }

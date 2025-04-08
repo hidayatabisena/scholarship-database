@@ -1,0 +1,29 @@
+{
+    "Study in Mexico 🇲🇽": [
+      {
+        "id": 1,
+        "link": "https://www.borenawards.org/apply-now",
+        "description": "Study abroad scholarships for US students interested in working for the US federal government after graduation, to study in Latin America, Africa, Asia and other countries critical to US interests."
+      },
+      {
+        "id": 2,
+        "link": "https://www.thebritishacademy.ac.uk/funding/newton-mobility-grants/",
+        "description": "Exchange programs for postdoctoral UK students and students from partner countries to conduct research in partner  nations, including Brazil and Mexico."
+      },
+      {
+        "id": 3,
+        "link": "https://tec.mx/en/becas/scholarships-campus-monterrey",
+        "description": "A range of scholarships to study at Tecnológico  de  Monterrey  (ITESM), including the Socioeconomic Scholarship for students with a grade average of 85/100 who require financial aid."
+      },
+      {
+        "id": 4,
+        "link": "https://sitios.iingen.unam.mx/IIUNAMEnglish/Foreign.html",
+        "description": "Scholarships for international master’s and doctoral students to study at Universidad Nacional Autónoma de México (UNAM), awarded as monthly maintenance grants."
+      },
+      {
+        "id": 5,
+        "link": "https://www.rainforest-alliance.org/in-the-field/kleinhans-fellowship/",
+        "description": "PhD scholarships for master’s degree holders in the fields of forestry, ecology, botany, environmental science or a related field, to conduct doctoral/postdoctoral research in Mexico and Central America’s Rainforest Alliance forestry projects."
+      }
+    ]
+}
