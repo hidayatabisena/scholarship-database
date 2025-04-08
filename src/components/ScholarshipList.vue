@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed, ref, onMounted } from 'vue';
-import { useWindowSize } from '@vueuse/core';
 import type { Scholarship } from '../types';
 import scholarshipIndex from '../data/scholarships/index.json';
 import ScholarshipCard from './ScholarshipCard.vue';
