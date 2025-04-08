@@ -1,0 +1,14 @@
+{
+    "Study in Hongkong 🇭🇰": [
+      {
+        "id": 1,
+        "link": "https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html",
+        "description": "Government scholarships for local and non-local students to gain funding to study in Hong Kong at selected institutions, such as the Belt and Road Scholarship for outstanding students from Indonesia,  Malaysia, Thailand and  Vietnam  (it will be expanded in phases to students from other Belt and Road countries)."
+      },
+      {
+        "id": 2,
+        "link": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+        "description": "PhD scholarships for international students to study in Hong Kong at a selected university."
+      }
+    ]
+}

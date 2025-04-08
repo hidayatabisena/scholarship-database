@@ -109,6 +109,11 @@
       "id": "china",
       "name": "Study in China 🇨🇳",
       "file": "china.json"
+    },
+    {
+      "id": "hongkong",
+      "name": "Study in Hong kong 🇭🇰",
+      "file": "hongkong.json"
     }
   ]
 }
