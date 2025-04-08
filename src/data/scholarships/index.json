@@ -134,6 +134,11 @@
       "id": "india",
       "name": "Study in India 🇮🇳",
       "file": "india.json"
+    },
+    {
+      "id": "sweden",
+      "name": "Study in Sweden 🇸🇪",
+      "file": "sweden.json"
     }
   ]
 }
