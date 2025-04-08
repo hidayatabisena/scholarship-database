@@ -10,8 +10,6 @@ const props = defineProps<{
   searchQuery: string
 }>();
 
-const { width } = useWindowSize();
-
 const scholarships = ref<Record<string, Scholarship[]>>({});
 const loading = ref(true);
 const selectedCategory = ref<string | null>(null);
@@ -81,7 +79,7 @@ const categoryList = computed(() => {
   return Object.keys(scholarships.value);
 });
 
-const isMobile = computed(() => width.value < 768);
+// const isMobile = computed(() => width.value < 768);
 </script>
 
 <template>

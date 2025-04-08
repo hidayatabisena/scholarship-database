@@ -2,7 +2,7 @@
 import { ArrowTopRightOnSquareIcon } from '@heroicons/vue/24/outline';
 import type { Scholarship } from '../types';
 
-const props = defineProps<{
+defineProps<{
   scholarship: Scholarship
 }>();
 
