@@ -1,0 +1,29 @@
+{
+    "Study in Belgium 🇧🇪": [
+      {
+        "id": 1,
+        "link": "https://internationalscholarships.ca/cud-scholarship-program-belgium/",
+        "description": "Opportunities to gain funding to study in Belgium for training or research at master’s level. Open to students internationally."
+      },
+      {
+        "id": 2,
+        "link": "https://www.vliruos.be/get-funded/study-scholarships",
+        "description": "Offering scholarships for students from developing countries in parts of Africa, Asia and Latin America to undertake training, research or study in Belgium at selected institutions."
+      },
+      {
+        "id": 3,
+        "link": "https://www.ugent.be/en/research/funding/globalsouth/grants-scholarships",
+        "description": "Scholarships for students from developing countries who are new students of English-taught master’s degrees at the Ghent University in Belgium."
+      },
+      {
+        "id": 4,
+        "link": "https://wet.kuleuven.be/english/scienceatleuvenscholarship",
+        "description": "The Science@Leuvenscholarship is aimed at international students interested in undertaking study in Belgium at master’s level within the faculty of science at KU Leuven."
+      },
+      {
+        "id": 5,
+        "link": "https://www.kuleuven.be/global/global-development/research-possibilities/phdcalls",
+        "description": "Open to prospective PhD students from developing countries to study in Belgium within the Interfaculty Council for Development Cooperation at KU Leuven."
+      }
+    ]
+}
