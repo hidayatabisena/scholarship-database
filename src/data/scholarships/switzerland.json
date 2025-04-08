@@ -1,0 +1,19 @@
+{
+    "Study in Switzerland 🇨🇭": [
+      {
+        "id": 1,
+        "link": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+        "description": "Merit-based scholarships are available to students who wish to pursue their master’s degree at ETH Zurich."
+      },
+      {
+        "id": 2,
+        "link": "https://swissnex.org/news/swiss-governments-excellence-scholarships/",
+        "description": "Merit-based scholarship opportunities for international students undertaking postgraduate-level study in Switzerland at selected institutions."
+      },
+      {
+        "id": 3,
+        "link": "https://www.studyandscholarships.com/2010/08/unu-fellowship-in-international.html",
+        "description": "Scholarships to study in Switzerland at the University of Geneva on an MBA program. Open to mid-career professionals from developing countries only."
+      }
+    ]
+}
