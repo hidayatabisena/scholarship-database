@@ -1,0 +1,54 @@
+{
+    "Study in Japan 🇯🇵": [
+      {
+        "id": 1,
+        "link": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+        "description": "Graduate scholarships for students from various Asian and Pacific countries to study in Japan in development-related fields including economics, management, science and technology."
+      },
+      {
+        "id": 2,
+        "link": "https://www.pref.aichi.jp/soshiki/kokusai/aichi-scholarship-program.html",
+        "description": "The Aichi Scholarship Program is a scholarship program for students from various Asian and Pacific countries to study in Japan in development-related fields including economics, management, science and technology."
+      },
+      {
+        "id": 3,
+        "link": "https://www.imf.org/en/Countries/ResRep/OAP-Home/JISPA-Home/what-is-jispa",
+        "description": "Asian scholarships for students currently working in economy and finance within a government agency (e.g. ministry of trade) to study in Japan in a related field. Open only to students from selected Asian countries."
+      },
+      {
+        "id": 4,
+        "link": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+        "description": "Government scholarships to study in Japan on a graduate-level research program."
+      },
+      {
+        "id": 5,
+        "link": "https://www.jsps.go.jp/english/e-fellow/application.html",
+        "description": "Study abroad scholarships for doctorate holders wishing to conduct research in Japan at a selected institution."
+      },
+      {
+        "id": 6,
+        "link": "https://www.keio.ac.jp/en/student-life/scholarships.html",
+        "description": "Full-tuition international scholarships to study in Japan within any field at Keio University."
+      },
+      {
+        "id": 7,
+        "link": "https://www.jica.go.jp/english/overseas/tunisia/activities/abe.html",
+        "description": "Scholarship for Africans to study in Japan on a development-related master’s degree program at an accredited university."
+      },
+      {
+        "id": 8,
+        "link": "https://www.id.emb-japan.go.jp/itpr_id/sch.html",
+        "description": "Scholarships for students from various Asian and Pacific countries to study in Japan in development-related fields including economics, management, science and technology."
+      },
+      {
+        "id": 9,
+        "link": "https://www.otsukafoundation.org/english/",
+        "description": "International scholarships for students of medicine, pharmacology, nutrition, physical education or business administration to study in Japan."
+      },
+      {
+        "id": 10,
+        "link": "https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html",
+        "description": "Over 100 study abroad scholarships for international graduate students to undertake academic research at the University of Tokyo."
+      }
+    ]
+}
