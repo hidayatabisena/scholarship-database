@@ -1,14 +1,9 @@
 {
   "categories": [
     {
-      "id": "us",
-      "name": "Study in US 🇺🇸",
-      "file": "us.json"
-    },
-    {
-      "id": "canada",
-      "name": "Study in Canada 🇨🇦",
-      "file": "canada.json"
+      "id": "argentina",
+      "name": "Study in Argentina 🇦🇷",
+      "file": "argentina.json"
     },
     {
       "id": "australia",
@@ -16,14 +11,9 @@
       "file": "australia.json"
     },
     {
-      "id": "uk",
-      "name": "Study in UK 🇬🇧",
-      "file": "uk.json"  
-    },
-    {
-      "id": "argentina",
-      "name": "Study in Argentina 🇦🇷",
-      "file": "argentina.json"
+      "id": "austria",
+      "name": "Study in Austria 🇦🇹",
+      "file": "austria.json"
     },
     {
       "id": "brazil",
@@ -31,9 +21,19 @@
       "file": "brazil.json"
     },
     {
+      "id": "canada",
+      "name": "Study in Canada 🇨🇦",
+      "file": "canada.json"
+    },
+    {
       "id": "chile",
       "name": "Study in Chile 🇨🇱",
       "file": "chile.json"
+    },
+    {
+      "id": "europe",
+      "name": "Study in Europe 🇪🇺",
+      "file": "europe.json"
     },
     {
       "id": "mexico",
@@ -41,9 +41,14 @@
       "file": "mexico.json"
     },
     {
-      "id": "europe",
-      "name": "Study in Europe 🇪🇺",
-      "file": "europe.json"
+      "id": "uk",
+      "name": "Study in UK 🇬🇧",
+      "file": "uk.json"
+    },
+    {
+      "id": "us",
+      "name": "Study in US 🇺🇸",
+      "file": "us.json"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+    "Study in Austria 🇦🇹": [
+      {
+        "id": 1,
+        "link": "https://studyinaustria.at/en/useful-tips/questions-and-answers/scholarships",
+        "description": "Monthly scholarships of €1,050 available for up to four months for international students of all study levels."
+      },
+      {
+        "id": 2,
+        "link": "https://grants.at/en/",
+        "description": "A searchable database of scholarships to study abroad in Austria."
+      }
+    ]
+}
