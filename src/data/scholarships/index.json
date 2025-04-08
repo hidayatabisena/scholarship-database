@@ -16,6 +16,11 @@
       "file": "austria.json"
     },
     {
+      "id": "belgium",
+      "name": "Study in Belgium 🇧🇪",
+      "file": "belgium.json"
+    },
+    {
       "id": "brazil",
       "name": "Study in Brazil 🇧🇷",
       "file": "brazil.json"
@@ -31,35 +36,20 @@
       "file": "chile.json"
     },
     {
-      "id": "europe",
-      "name": "Study in Europe 🇪🇺",
-      "file": "europe.json"
-    },
-    {
-      "id": "mexico",
-      "name": "Study in Mexico 🇲🇽",
-      "file": "mexico.json"
-    },
-    {
-      "id": "uk",
-      "name": "Study in UK 🇬🇧",
-      "file": "uk.json"
-    },
-    {
-      "id": "us",
-      "name": "Study in US 🇺🇸",
-      "file": "us.json"
-    },
-    {
-      "id": "belgium",
-      "name": "Study in Belgium 🇧🇪",
-      "file": "belgium.json"
+      "id": "china",
+      "name": "Study in China 🇨🇳",
+      "file": "china.json"
     },
     {
       "id": "czech",
       "name": "Study in Czech Republic 🇨🇿",
       "file": "czech.json"
-    },  
+    },
+    {
+      "id": "europe",
+      "name": "Study in Europe 🇪🇺",
+      "file": "europe.json"
+    },
     {
       "id": "france",
       "name": "Study in France 🇫🇷",
@@ -71,9 +61,19 @@
       "file": "greece.json"    
     },
     {
+      "id": "hongkong",
+      "name": "Study in Hong kong 🇭🇰",
+      "file": "hongkong.json"
+    },
+    {
       "id": "hungary",
       "name": "Study in Hungary 🇭🇺",
       "file": "hungary.json"
+    },
+    {
+      "id": "india",
+      "name": "Study in India 🇮🇳",
+      "file": "india.json"
     },
     {
       "id": "ireland",
@@ -86,9 +86,29 @@
       "file": "italy.json"
     },
     {
+      "id": "japan",
+      "name": "Study in Japan 🇯🇵",  
+      "file": "japan.json"
+    },
+    {
+      "id": "korea",
+      "name": "Study in South Korea 🇰🇷",
+      "file": "korea.json"
+    },
+    {
+      "id": "mexico",
+      "name": "Study in Mexico 🇲🇽",
+      "file": "mexico.json"
+    },
+    {
       "id": "netherlands",
       "name": "Study in Netherlands 🇳🇱",
       "file": "netherlands.json"
+    },
+    {
+      "id": "singapore",
+      "name": "Study in Singapore 🇸🇬",
+      "file": "singapore.json"
     },
     {
       "id": "slovakia",
@@ -101,44 +121,24 @@
       "file": "spain.json"
     },
     {
+      "id": "sweden",
+      "name": "Study in Sweden 🇸🇪",
+      "file": "sweden.json"
+    },
+    {
       "id": "switzerland",
       "name": "Study in Switzerland 🇨🇭",
       "file": "switzerland.json"
     },
     {
-      "id": "china",
-      "name": "Study in China 🇨🇳",
-      "file": "china.json"
+      "id": "uk",
+      "name": "Study in UK 🇬🇧",
+      "file": "uk.json"
     },
     {
-      "id": "hongkong",
-      "name": "Study in Hong kong 🇭🇰",
-      "file": "hongkong.json"
-    },
-    {
-      "id": "japan",
-      "name": "Study in Japan 🇯🇵",  
-      "file": "japan.json"
-    },
-    {
-      "id": "singapore",
-      "name": "Study in Singapore 🇸🇬",
-      "file": "singapore.json"
-    },
-    {
-      "id": "korea",
-      "name": "Study in South Korea 🇰🇷",
-      "file": "korea.json"
-    },
-    {
-      "id": "india",
-      "name": "Study in India 🇮🇳",
-      "file": "india.json"
-    },
-    {
-      "id": "sweden",
-      "name": "Study in Sweden 🇸🇪",
-      "file": "sweden.json"
+      "id": "us",
+      "name": "Study in US 🇺🇸",
+      "file": "us.json"
     }
   ]
 }
