@@ -1,0 +1,24 @@
+{
+    "Study in France 🇫🇷": [
+      {
+        "id": 1,
+        "link": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
+        "description": "Open to international students at master’s/PhD level wishing to study in France at selected institutions."
+      },
+      {
+        "id": 2,
+        "link": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+        "description": "Opportunities for bachelor’s and master’s degree students from outside of the EU to gain funding to study in France at Sciences Po."
+      },
+      {
+        "id": 3,
+        "link": "https://www.youthop.com/scholarships/fondation-rainbow-bridge-mba-scholarships-african-asian-women",
+        "description": "MBA scholarships for students from developing countries in Africa and Asia to study in France at HEC Paris. Open to female students only."
+      },
+      {
+        "id": 4,
+        "link": "https://www.ens-lyon.fr/en/studies/student-information/grants-and-scholarships",
+        "description": "Scholarships for students from developing countries in Europe to study in France at ENS Lyon."
+      }
+    ]
+}
