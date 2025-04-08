@@ -1,0 +1,14 @@
+{
+    "Study in India 🇮🇳": [
+      {
+        "id": 1,
+        "link": "https://inlaksfoundation.org/opportunities/scholarship/",
+        "description": "Scholarships for Indian students to study abroad in North America or Europe. Applicants must be under 30 and reside in India at the time of application. For undergraduate and postgraduate study. Other restrictions apply."
+      },
+      {
+        "id": 2,
+        "link": "https://a2ascholarships.iccr.gov.in/home/page/indian-council-for-cultural-relations-scholarship-schemes",
+        "description": "The General Scholarship Scheme (GSS) is one of the most important and popular schemes of the ICCR for foreign students. Scholarships are awarded under this scheme annually to international students belonging to certain Asian, African and Latin American countries for the undergraduate, postgraduate degrees and for pursuing research at Indian universities."
+      }
+    ]
+}
