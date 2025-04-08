@@ -1,0 +1,14 @@
+{
+    "Study in Hungary 🇭🇺": [
+      {
+        "id": 1,
+        "link": "https://apply.stipendiumhungaricum.hu",
+        "description": "Scholarships for international students to study in Hungary, funded by the Hungarian government. Open to students of master’s degrees in rural development and agribusiness, horticulture and agricultural water management."
+      },
+      {
+        "id": 2,
+        "link": "https://stipendiumhungaricum.hu/apply/",
+        "description": "Provides scholarships which cover tuition fees, medical insurance, accommodation and a monthly stipend for citizens of partner countries to study in Hungary at either bachelor’s or master’s level."
+      }
+    ]
+}
