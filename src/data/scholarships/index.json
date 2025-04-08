@@ -94,6 +94,11 @@
       "id": "slovakia",
       "name": "Study in Slovakia 🇸🇰",
       "file": "slovakia.json"
+    },
+    {
+      "id": "spain",
+      "name": "Study in Spain 🇪🇸",
+      "file": "spain.json"
     }
   ]
 }

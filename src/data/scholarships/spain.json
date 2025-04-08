@@ -1,0 +1,19 @@
+{
+    "Study in Spain 🇪🇸": [
+      {
+        "id": 1,
+        "link": "https://bse.eu/masters-degrees/admissions",
+        "description": "All master’s applicants are automatically considered for scholarships based on academic excellence at Barcelona Graduate School of Economics."
+      },
+      {
+        "id": 2,
+        "link": "https://www.zlc.edu.es/education/mit-zaragoza-master-of-engineering-in-logistics-and-supply-chain-management-zlog/#fees-funding",
+        "description": "The MIT-Zaragoza Master of Engineering in Logistics and Supply Chain Management (ZLOG) is a 3-year master’s degree program in the field of Logistics and Supply Chain Management. It is offered at the MIT-Zaragoza University in Zaragoza, Spain."
+      },
+      {
+        "id": 3,
+        "link": "https://ssabroad.org",
+        "description": "SSA is a global network of 100+ universities and 100+ countries. It provides a platform for students to study in Spain."
+      }
+    ]
+}
