@@ -1,0 +1,29 @@
+{
+    "Study in Italy 🇮🇹": [
+      {
+        "id": 1,
+        "link": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/funding",
+        "description": "Scholarships for international students to study a Master of Science program at Bocconi University. Includes a full tuition waiver."
+      },
+      {
+        "id": 2,
+        "link": "https://www.esteri.it/en/opportunita/borse-di-studio/per-cittadini-stranieri/",
+        "description": "Scholarships for international students at all degree levels to study in Italy at various public institutions. Also open to Italian citizens living abroad (IRE)."
+      },
+      {
+        "id": 3,
+        "link": "https://cicops.unipv.it/cicops-scholarships/",
+        "description": "Scholarships from the University of Pavia (UNIPV), open to international students from developing countries to carry out research in collaboration with  a  professor. You must have an invitation letter from a professor to apply."
+      },
+      {
+        "id": 4,
+        "link": "https://www.unibo.it/en/study/study-grants-and-subsidies",
+        "description": "Funding opportunities for international students at bachelor’s and master’s level to study in Italy at the University of Bologna."
+      },
+      {
+        "id": 5,
+        "link": "https://www.international.unina.it/education/international-students-opportunities/",
+        "description": "Scholarships for international degree courses at the University of Naples Federico II. 25 scholarships are available in total."
+      }
+    ]
+}
