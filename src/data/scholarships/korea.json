@@ -1,0 +1,34 @@
+{
+    "Study in South Korea 🇰🇷": [
+      {
+        "id": 1,
+        "link": "https://www.chey.org/Eng/Isef/Intro/IsefIntro.aspx",
+        "description": "50 graduate scholarships for students from Asia to study in South Korea at leading institutions."
+      },
+      {
+        "id": 2,
+        "link": "https://gksscholarship.com",
+        "description": "South Korean government scholarships for international students at master’s and PhD level."
+      },
+      {
+        "id": 3,
+        "link": "https://oia.cau.ac.kr/sub06/sub03_2.php",
+        "description": "Tuition waivers and dormitory fee reductions on offer to international undergraduate students studying at Chung-Ang University."
+      },
+      {
+        "id": 4,
+        "link": "https://en.snu.ac.kr/admission/exchange/scholarships",
+        "description": "Various scholarships for international exchange students studying at Seoul National University."
+      },
+      {
+        "id": 5,
+        "link": "https://oia.snu.ac.kr/silk-road-scholarship",
+        "description": "Scholarships for Indian students to study abroad in South Korea at Seoul National University, on graduate-level humanities or social science programs."
+      },
+      {
+        "id": 6,
+        "link": "https://scc.sogang.ac.kr/wwwe/scholarships.html",
+        "description": "Asian scholarships for international students participating in the Sogang Exchange Program at Sogang University in Seoul."
+      }
+    ]
+}

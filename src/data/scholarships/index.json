@@ -124,6 +124,11 @@
       "id": "singapore",
       "name": "Study in Singapore 🇸🇬",
       "file": "singapore.json"
+    },
+    {
+      "id": "korea",
+      "name": "Study in South Korea 🇰🇷",
+      "file": "korea.json"
     }
   ]
 }
