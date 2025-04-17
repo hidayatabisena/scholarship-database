@@ -19,6 +19,11 @@
         "id": 4,
         "link": "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa",
         "description": "PhD scholarships to study in Singapore in the fields of science and engineering at selected Singaporean universities."
+      },
+      {
+        "id": 5,
+        "link": "https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship",
+        "description": "NUS Research Scholarships for international students to study in Singapore at the National University of Singapore (NUS)."
       }
     ]
 }
