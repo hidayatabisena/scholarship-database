@@ -106,6 +106,16 @@
       "file": "netherlands.json"
     },
     {
+      "id": "nz",
+      "name": "Study in New Zealand 🇳🇿",
+      "file": "nz.json"
+    },
+    {
+      "id": "romania",
+      "name": "Study in Romania 🇷🇴",
+      "file": "romania.json"
+    },
+    {
       "id": "singapore",
       "name": "Study in Singapore 🇸🇬",
       "file": "singapore.json"
@@ -129,6 +139,11 @@
       "id": "switzerland",
       "name": "Study in Switzerland 🇨🇭",
       "file": "switzerland.json"
+    },
+    {
+      "id": "turki",
+      "name": "Study in Turkiye 🇹🇷",
+      "file": "turki.json"
     },
     {
       "id": "uk",

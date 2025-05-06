@@ -9,6 +9,11 @@
         "id": 2,
         "link": "https://stipendiumhungaricum.hu/apply/",
         "description": "Provides scholarships which cover tuition fees, medical insurance, accommodation and a monthly stipend for citizens of partner countries to study in Hungary at either bachelor’s or master’s level."
+      },
+      {
+        "id": 3,
+        "link": "https://apply.stipendiumhungaricum.hu/",
+        "description": "The Stipendium Hungaricum Scholarship Programme was launched in 2013 by the Hungarian Government with the aim of providing opportunity for foreign students to pursue their higher education studies in Hungary."
       }
     ]
 }

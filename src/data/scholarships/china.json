@@ -39,6 +39,11 @@
         "id": 8,
         "link": "http://en.jsnu.edu.cn/wiangsuwwasminewwcholarship/list.htm",
         "description": "The scholarship program of the WANGSU STATE UNIVERSITY is designed to encourage students from all over the world to study in China."
+      },
+      {
+        "id": 9,
+        "link": "https://en.ustc.edu.cn/Admission.htm",
+        "description": "USTC offers 107 master's programs and 94 doctoral programs in Mathematics, Physics, Chemistry, Materials Science, Engineering Science, Electronic Information, Computer Science, Earth and Space Sciences, Environmental Science, etc."
       }
     ]
 }
